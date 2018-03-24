@@ -25,7 +25,7 @@ while True:
         print("is your number "+str(mid)+" ?")
     elif ans== "c":
         print("I guessed")
-        print("Numer of iteractions:"+ str(iteractions))
+        print("Numer of iteraction:"+ str(iteractions))
         break
       
         
