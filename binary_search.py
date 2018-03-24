@@ -18,7 +18,7 @@ while True:
     if ans=="l":
         lower_edge= mid+1
         mid= (upper_edge+lower_edge)//2  
-        print("is your number "+str(mid)+" ?")
+        print("is your number "+str(mid)+" ? ")
     elif ans=="h":
         upper_edge=mid -1
         mid = (upper_edge+ lower_edge)//2
